@@ -10,6 +10,8 @@ A simple JS project for matching game implementation
 ## Resources used
 - `vitejs`
 
+## Development pattern
+- [RS-CSS](https://rscss.io/index.html)
 
 ## Install packages
 
