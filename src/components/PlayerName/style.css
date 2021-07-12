@@ -1,0 +1,6 @@
+.player-name {
+  font-size: 1rem;
+  color: var(--color-floral-white);
+  font-weight: 400;
+  line-height: 10px;
+}
