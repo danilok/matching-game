@@ -6,6 +6,7 @@
   transform-style: preserve-3d;
   position: relative;
   transition: transform 400ms ease-in-out;
+  cursor: pointer;
 }
 
 .card-front-back.-active {
